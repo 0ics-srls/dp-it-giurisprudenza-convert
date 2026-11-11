@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elenco_pronunce>
+  <pronuncia>
+    <pronuncia_testata>
+      <anno_pronuncia>2001</anno_pronuncia>
+      <numero_pronuncia>1</numero_pronuncia>
+      <ecli>ECLI:IT:COST:2001:1</ecli>
+      <tipologia_pronuncia>O</tipologia_pronuncia>
+      <presidente>Ruperto</presidente>
+      <relatore_pronuncia>Contri</relatore_pronuncia>
+      <redattore_pronuncia></redattore_pronuncia>
+      <data_decisione>10/01/2001</data_decisione>
+      <data_deposito>15/01/2001</data_deposito>
+    </pronuncia_testata>
+    <pronuncia_testo>
+      <collegio>LA CORTE COSTITUZIONALE</collegio>
+      <epigrafe>nel giudizio di legittimita costituzionale dell ordinanza</epigrafe>
+      <dispositivo>dichiara&#13;&#13; inammissibile  la   questione di legittimita</dispositivo>
+    </pronuncia_testo>
+  </pronuncia>
+  <pronuncia>
+    <pronuncia_testata>
+      <anno_pronuncia>2001</anno_pronuncia>
+      <numero_pronuncia>2</numero_pronuncia>
+      <ecli>ECLI:IT:COST:2001:2</ecli>
+      <tipologia_pronuncia>S</tipologia_pronuncia>
+      <presidente>Ruperto</presidente>
+      <relatore_pronuncia>Marini</relatore_pronuncia>
+      <redattore_pronuncia>Marini</redattore_pronuncia>
+      <data_decisione>20/02/2001</data_decisione>
+      <data_deposito>25/02/2001</data_deposito>
+    </pronuncia_testata>
+    <pronuncia_testo>
+      <collegio>LA CORTE COSTITUZIONALE</collegio>
+      <epigrafe><titolo>SENTENZA</titolo> nel giudizio di legittimita costituzionale</epigrafe>
+      <fatto>Ritenuto in fatto che il giudice rimettente</fatto>
+      <diritto>Considerato in diritto che la questione</diritto>
+      <testo>la motivazione integrale della decisione</testo>
+      <dispositivo>dichiara non fondata la questione</dispositivo>
+    </pronuncia_testo>
+  </pronuncia>
+  <pronuncia>
+    <pronuncia_testata>
+      <anno_pronuncia>2001</anno_pronuncia>
+      <numero_pronuncia>3</numero_pronuncia>
+      <ecli>ECLI:IT:COST:2001:3</ecli>
+      <tipologia_pronuncia>O</tipologia_pronuncia>
+      <presidente>Ruperto</presidente>
+      <relatore_pronuncia>Bile</relatore_pronuncia>
+      <redattore_pronuncia></redattore_pronuncia>
+      <data_decisione>05/03/2001</data_decisione>
+      <data_deposito>09/03/2001</data_deposito>
+    </pronuncia_testata>
+    <pronuncia_testo>
+      <collegio>LA CORTE COSTITUZIONALE</collegio>
+      <epigrafe>ordinanza sul conflitto di attribuzione</epigrafe>
+      <testo>premesso che il ricorrente espone</testo>
+      <dispositivo>dichiara ammissibile il conflitto</dispositivo>
+    </pronuncia_testo>
+  </pronuncia>
+  <pronuncia>
+    <pronuncia_testata>
+      <anno_pronuncia>2001</anno_pronuncia>
+      <numero_pronuncia>99</numero_pronuncia>
+      <tipologia_pronuncia>O</tipologia_pronuncia>
+      <presidente>Ruperto</presidente>
+      <relatore_pronuncia>Ignoto</relatore_pronuncia>
+      <redattore_pronuncia></redattore_pronuncia>
+      <data_decisione>01/04/2001</data_decisione>
+      <data_deposito>03/04/2001</data_deposito>
+    </pronuncia_testata>
+    <pronuncia_testo>
+      <collegio>LA CORTE COSTITUZIONALE</collegio>
+      <epigrafe>pronuncia senza ecli</epigrafe>
+      <dispositivo>dispositivo orfano</dispositivo>
+    </pronuncia_testo>
+  </pronuncia>
+</elenco_pronunce>

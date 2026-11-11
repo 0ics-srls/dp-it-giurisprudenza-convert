@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corte_costituzionale_archiviomassime>
+  <pronuncia>
+    <pronuncia_testata>
+      <anno_pronuncia>2001</anno_pronuncia>
+      <numero_pronuncia>10</numero_pronuncia>
+      <tipologia_pronuncia>S</tipologia_pronuncia>
+      <tipologia_giudizio>legittimita costituzionale in via incidentale</tipologia_giudizio>
+      <presidente>Ruperto</presidente>
+      <relatore_pronuncia>Marini</relatore_pronuncia>
+    </pronuncia_testata>
+    <massime>
+      <massima>
+        <numero>1</numero>
+        <titolo><![CDATA[Massima sulla competenza legislativa]]></titolo>
+        <testo><![CDATA[  Principio di diritto   affermato
+dalla Corte costituzionale in materia  ]]></testo>
+      </massima>
+      <massima>
+        <numero>2</numero>
+        <titolo><![CDATA[Massima sul giudicato costituzionale]]></titolo>
+        <testo><![CDATA[Seconda massima della stessa pronuncia]]></testo>
+      </massima>
+      <massima>
+        <numero>3</numero>
+        <titolo><![CDATA[Massima vuota da scartare]]></titolo>
+        <testo><![CDATA[   ]]></testo>
+      </massima>
+    </massime>
+  </pronuncia>
+  <pronuncia>
+    <pronuncia_testata>
+      <anno_pronuncia>2001</anno_pronuncia>
+      <numero_pronuncia>11</numero_pronuncia>
+      <tipologia_pronuncia>O</tipologia_pronuncia>
+      <tipologia_giudizio>conflitto di attribuzione</tipologia_giudizio>
+      <presidente>Ruperto</presidente>
+      <relatore_pronuncia>Bile</relatore_pronuncia>
+    </pronuncia_testata>
+    <massime>
+      <massima>
+        <numero>1</numero>
+        <titolo><![CDATA[Massima unica della seconda pronuncia]]></titolo>
+        <testo><![CDATA[Unico principio affermato nel conflitto]]></testo>
+      </massima>
+    </massime>
+  </pronuncia>
+</corte_costituzionale_archiviomassime>

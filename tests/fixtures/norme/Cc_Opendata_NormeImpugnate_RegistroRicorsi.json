@@ -1,0 +1,63 @@
+{
+ "descrizione": "Corte costituzionale - Atti pendenti: ricorsi in via principale",
+ "registro_ricorsi": [
+  {
+   "anno": "2024",
+   "numero": "5",
+   "parti": {
+    "numero_parte": "1",
+    "norme": [
+     {
+      "specificazione_articolo": "",
+      "descrizione": "legge della Regione Emilia Romagna",
+      "comma": "",
+      "numero": "17",
+      "data": "28/12/2023",
+      "articolo": "3",
+      "nesso": "aggiuntivo del",
+      "specificazione_comma": ""
+     },
+     {
+      "specificazione_articolo": "",
+      "descrizione": "legge della Regione Emilia Romagna",
+      "comma": "2",
+      "numero": "26",
+      "data": "23/12/2004",
+      "articolo": "10",
+      "nesso": "",
+      "specificazione_comma": "bis"
+     }
+    ]
+   }
+  },
+  {
+   "anno": "2024",
+   "numero": "23",
+   "parti": {
+    "numero_parte": "1",
+    "norme": [
+     {
+      "specificazione_articolo": "",
+      "descrizione": "decreto-legge",
+      "comma": "13",
+      "numero": "19",
+      "data": "02/03/2024",
+      "articolo": "1",
+      "nesso": "convertito con modificazioni in",
+      "specificazione_comma": "primo periodo"
+     },
+     {
+      "specificazione_articolo": "",
+      "descrizione": "legge",
+      "comma": "",
+      "numero": "56",
+      "data": "29/04/2024",
+      "articolo": "",
+      "nesso": "",
+      "specificazione_comma": ""
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "descrizione": "Corte costituzionale - Atti pendenti: ricorsi in via incidentale",
+ "registro_ordinanze": [
+  {
+   "anno": "2025",
+   "numero": "173",
+   "parti": {
+    "numero_parte": "1",
+    "norme": [
+     {
+      "specificazione_articolo": "",
+      "descrizione": "codice di procedura penale",
+      "comma": "1",
+      "numero": "",
+      "data": "",
+      "articolo": "443",
+      "nesso": "",
+      "specificazione_comma": ""
+     }
+    ]
+   }
+  },
+  {
+   "anno": "2026",
+   "numero": "23",
+   "parti": {
+    "numero_parte": "1",
+    "norme": [
+     {
+      "specificazione_articolo": "",
+      "descrizione": "decreto legislativo",
+      "comma": "6",
+      "numero": "286",
+      "data": "25/07/1998",
+      "articolo": "40",
+      "nesso": "",
+      "specificazione_comma": ""
+     },
+     {
+      "specificazione_articolo": "",
+      "descrizione": "legge della Regione Piemonte",
+      "comma": "1",
+      "numero": "3",
+      "data": "17/02/2010",
+      "articolo": "3",
+      "nesso": "sostituita dall'",
+      "specificazione_comma": "lett. a)"
+     },
+     {
+      "specificazione_articolo": "",
+      "descrizione": "legge della Regione Piemonte",
+      "comma": "1",
+      "numero": "2",
+      "data": "27/02/2024",
+      "articolo": "2",
+      "nesso": "",
+      "specificazione_comma": ""
+     },
+     {
+      "specificazione_articolo": "",
+      "descrizione": "legge della Regione Piemonte",
+      "comma": "1",
+      "numero": "3",
+      "data": "17/02/2010",
+      "articolo": "8",
+      "nesso": "aggiunta dall'",
+      "specificazione_comma": "lett. t-bis)"
+     },
+     {
+      "specificazione_articolo": "",
+      "descrizione": "legge della Regione Piemonte",
+      "comma": "8",
+      "numero": "2",
+      "data": "27/02/2024",
+      "articolo": "2",
+      "nesso": "",
+      "specificazione_comma": ""
+     }
+    ]
+   }
+  },
+  {
+   "anno": "2026",
+   "numero": "71",
+   "parti": {
+    "numero_parte": "1",
+    "norme": [
+     {
+      "specificazione_articolo": "",
+      "descrizione": "codice di procedura penale",
+      "comma": "2",
+      "numero": "",
+      "data": "",
+      "articolo": "593",
+      "nesso": "come sostituito dall'art.",
+      "specificazione_comma": ""
+     },
+     {
+      "specificazione_articolo": "",
+      "descrizione": "legge",
+      "comma": "1",
+      "numero": "114",
+      "data": "09/08/2024",
+      "articolo": "2",
+      "nesso": "",
+      "specificazione_comma": "lett. p)"
+     }
+    ]
+   }
+  }
+ ]
+}
