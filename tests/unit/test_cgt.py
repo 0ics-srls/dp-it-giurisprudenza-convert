@@ -1,6 +1,7 @@
 """CGT (MEF DocTrib giurisprudenza) search / detail parsing and records (port of DocTribParser, ambito G)."""
 from __future__ import annotations
 
+import json
 from pathlib import Path
 
 import pytest
@@ -202,3 +203,14 @@ def test_record_from_item_and_detail() -> None:
     )
     assert outcome.source_url == f"https://def.finanze.it/DocTribFrontend/getGiurisprudenzaDetail.do?id={CAMPANIA_GUID}"
     assert outcome.text_raw_original.startswith("SVOLGIMENTO DEL PROCESSO")
+
+
+def test_search_agrees_with_the_golden_file_shared_with_the_grab_class() -> None:
+    """The grab class keeps a copy of the search classification (classify.py); both are checked against the same golden file."""
+    golden = json.loads(_fixture("search-golden.json"))
+
+    for name, expected in golden.items():
+        result = parse_search(_fixture(name))
+        assert result.declared == expected["declared"], name
+        assert [result.discarded_cassazione, result.discarded_commissioni, result.discarded_altri] == expected["discarded"], name
+        assert [i.__dict__ for i in result.items] == expected["items"], name
