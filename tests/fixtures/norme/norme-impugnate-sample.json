@@ -1,0 +1,40 @@
+{
+  "registro_ordinanze": [
+    {
+      "anno": 2001,
+      "numero": 10,
+      "parti": {
+        "norme": [
+          {
+            "descrizione": "legge",
+            "numero": "388",
+            "data": "23/12/2000",
+            "articolo": "80",
+            "comma": "19",
+            "specificazione_articolo": "",
+            "specificazione_comma": "",
+            "nesso": ""
+          }
+        ]
+      }
+    },
+    {
+      "anno": 2001,
+      "numero": 11,
+      "parti": {
+        "norme": [
+          {
+            "descrizione": "",
+            "numero": "",
+            "data": "",
+            "articolo": "",
+            "comma": "",
+            "specificazione_articolo": "",
+            "specificazione_comma": "",
+            "nesso": ""
+          }
+        ]
+      }
+    }
+  ]
+}
